@@ -139,3 +139,4 @@ C:\Users\dranu\OneDrive\Desktop\Claude projects\JobTracker\JobTracker.API\obj\De
 C:\Users\dranu\OneDrive\Desktop\Claude projects\JobTracker\JobTracker.API\obj\Debug\net9.0\JobTracker.API.pdb
 C:\Users\dranu\OneDrive\Desktop\Claude projects\JobTracker\JobTracker.API\obj\Debug\net9.0\JobTracker.API.genruntimeconfig.cache
 C:\Users\dranu\OneDrive\Desktop\Claude projects\JobTracker\JobTracker.API\obj\Debug\net9.0\ref\JobTracker.API.dll
+C:\Users\dranu\OneDrive\Desktop\Claude projects\JobTracker\JobTracker.API\obj\Debug\net9.0\JobTracker.API.sourcelink.json
